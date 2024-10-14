@@ -1,2 +1,2 @@
 # drx_questionnaire
-Server calculation questionnaire
+Опросный лист для полготовки расчетов оборудования.
